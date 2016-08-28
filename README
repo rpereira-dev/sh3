@@ -1,0 +1,31 @@
+Keys:
+	- left or right arrow: move cursor
+	- up or down arrow : explore historic
+	- backspace / delete key: remove character at cursor position
+	- enter: send command or a new line if a parenthese is opened
+	- CTRL + D : stop prompt
+	- CTRL + U : delete line
+	- END / shift + END : go to the first line character
+	- HOME / shift + END : go to the last line character
+	- shift + left : jump to left word in line
+	- shift + right : jump to right word in line
+	- shift + up arrow : jump to upper line if possible
+	- shift + down arrow : jump to lower line if possible
+	- COMMAND + C : copy
+	- COMMAND + V : paste at cursor position
+	- CTRL + K : cut right chars
+	- CTRL + H : cut left chars
+	- CTRL + P : paste cutted chars
+	- CTRL + L : clear screen
+
+
+Parentheses character:
+	- [ ]
+	- { }
+	- ( )
+	- " "
+	- ' '
+	- ` `
+
+Suggestion :
+	- if you fail a command, sh3 will give you what you wanted :D
